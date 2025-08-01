@@ -1,0 +1,3 @@
+ccxt
+aiohttp
+python-telegram-bot
